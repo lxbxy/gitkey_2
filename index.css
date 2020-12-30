@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+}
+
+body h1:nth-of-type(1) {
+    color: hotpink;
+}
+
+h1:hover {
+    background-color: skyblue;
+}
+
+h3:hover {
+    background-color: purple;
+}
